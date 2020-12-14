@@ -1,0 +1,9 @@
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\bin\Debug\netcoreapp3.1\lcp-test-data.deps.json
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\bin\Debug\netcoreapp3.1\lcp-test-data.dll
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\bin\Debug\netcoreapp3.1\lcp-test-data.pdb
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.AssemblyInfoInputs.cache
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.AssemblyInfo.cs
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.csproj.CoreCompileInputs.cache
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.dll
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.pdb
+C:\Users\Moye\Documents\Repo\lcp-test\lcp-test\lcp-test-data\obj\Debug\netcoreapp3.1\lcp-test-data.csprojAssemblyReference.cache
